@@ -8,3 +8,5 @@ Content:
 1. generate_tone.m -- For generating tones of any frequency
 
 2. goertzel_algo.m -- Implementation of goertzel algorithm for detecting power of particular frequency in any sequence.
+
+3. dtmf.m -- Interactive GUI for demostration of Project.
